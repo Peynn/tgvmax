@@ -1,0 +1,5 @@
+requests
+python-dateutil
+flask
+flask-restful
+flask-cors
